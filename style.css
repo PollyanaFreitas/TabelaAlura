@@ -1,0 +1,62 @@
+* {
+  text-align: center;
+}
+
+body {
+  font-family: "Roboto Mono", monospace, 10;
+  min-height: 1100px;
+  background-image: url("https://images.vexels.com/media/users/3/2432/raw/679fabe45e0d1577eaf8d706b1a2d111-medalha-de-emblema-estilo-web-2-0.jpg");
+  background-color: #111;
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #0000ff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+table {
+  border: 2px solid white;
+  border-collapse: collapse;
+  width: 100px;
+}
+
+h1 {
+  color: #ff69b4;
+}
+
+th,
+tr,
+td {
+  border: solid 1px #ffffff;
+  color: #ffffff;
+}
+
+button {
+  background-color: #ff69b4;
+  color: #ffffff;
+}
